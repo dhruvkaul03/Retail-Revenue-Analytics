@@ -15,6 +15,6 @@
 - **DAX** – For dynamic measure calculations inside Power BI
 
 ## 📂 Files
-[Power BI File](dashboard/cozy%20beans%20dashboard.pbix)
+[Power BI File](dashboard/cozy_beans_dashboard.pbix)
 
 
